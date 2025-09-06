@@ -1,7 +1,7 @@
 <img src="https://napneko.github.io/assets/newnewlogo.png" width = "305" height = "411" alt="NapCat" align=right />
 <div align="center">
 
-# NapCat
+# 纪念2025-9-5 NapCat事件
 
 
 
